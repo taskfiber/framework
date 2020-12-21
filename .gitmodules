@@ -1,0 +1,9 @@
+[submodule "src/core"]
+	path = src/core
+	url = https://github.com/taskfiber/core.git
+[submodule "src/http"]
+	path = src/http
+	url = https://github.com/taskfiber/http.git
+[submodule "app"]
+	path = app
+	url = https://github.com/taskfiber/app.git
